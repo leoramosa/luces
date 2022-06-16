@@ -51,7 +51,8 @@
   z-index: 11;
 }
 #price-section {
-  background: url("../images/fondo_nuevo.jpg");
+  background: url("../images/fondo_nuevo.jpg") center center no-repeat;
+  background-size: cover;
 }
 .content-banner {
   position: relative;
